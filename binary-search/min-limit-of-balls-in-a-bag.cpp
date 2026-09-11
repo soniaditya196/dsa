@@ -1,11 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/*
-Input: nums = [2,4,8,2], maxOperations = 4
-Output: 2
-*/
-
 class Solution {
     public:
         int minimumSize(vector<int>& nums, int maxOperations) {
